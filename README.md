@@ -51,13 +51,14 @@ Sunday                   37 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    14 mins             ████████████████████████░   96.63 % 
+Batchfile                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,5 +74,5 @@ PowerShell               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2024 00:14:40 UTC
+ Last Updated on 13/01/2024 00:14:42 UTC
 <!--END_SECTION:waka-->
