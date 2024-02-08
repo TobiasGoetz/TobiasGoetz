@@ -16,7 +16,7 @@
 
 > 📦 3.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2024
+> 🏆 3 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -51,14 +51,13 @@ Sunday                   37 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-LaTeX source file        0 secs              ██████████████████████░░░   89.83 % 
-TeX                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +73,5 @@ PowerShell               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2024 00:13:27 UTC
+ Last Updated on 08/02/2024 00:13:35 UTC
 <!--END_SECTION:waka-->
