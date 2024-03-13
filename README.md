@@ -3,7 +3,7 @@
 - 🧑‍💼 I'm currently working at [KION Group](https://www.kiongroup.com/) as a cooperative education student in the Cloud Team
 - 🔭 I’m currently working on Java/Spring microservices 
 - 🌱 I’m currently learning reactive programming 
-- 💪 Skills: JAVA / JS / PYTHON/ REACT
+- 💪 Skills: JAVA / JS / PYTHON / REACT
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tgoetz), [Mail](mailto:mail@tobiasgoetz.com) 
 - ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs!
 
