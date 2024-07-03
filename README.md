@@ -16,7 +16,7 @@
 
 > 📦 4.3 kB Used in GitHub's Storage 
  > 
-> 🏆 213 Contributions in the Year 2024
+> 🏆 214 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -51,13 +51,14 @@ Sunday                   80 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+LaTeX source file        8 mins              ██████████████████░░░░░░░   71.61 % 
+TeX                      3 mins              ███████░░░░░░░░░░░░░░░░░░   28.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TeX** 
@@ -73,5 +74,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2024 00:15:34 UTC
+ Last Updated on 03/07/2024 00:15:40 UTC
 <!--END_SECTION:waka-->
