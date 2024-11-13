@@ -51,13 +51,15 @@ Sunday                   85 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 mins              █████████████░░░░░░░░░░░░   53.57 % 
+TOML                     3 mins              ███████████░░░░░░░░░░░░░░   44.19 % 
+Git                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TeX** 
@@ -73,5 +75,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2024 00:17:50 UTC
+ Last Updated on 13/11/2024 00:18:28 UTC
 <!--END_SECTION:waka-->
