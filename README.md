@@ -51,13 +51,13 @@ Sunday                   75 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Obsidian                 2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TeX** 
@@ -73,5 +73,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2025 00:19:37 UTC
+ Last Updated on 16/05/2025 00:21:25 UTC
 <!--END_SECTION:waka-->
