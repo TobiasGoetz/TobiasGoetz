@@ -16,7 +16,7 @@
 
 > 📦 126.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,047 Contributions in the Year 2025
+> 🏆 1,048 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -51,13 +51,13 @@ Sunday                   119 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 31 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TeX** 
@@ -73,5 +73,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2025 00:21:53 UTC
+ Last Updated on 25/06/2025 00:22:14 UTC
 <!--END_SECTION:waka-->
