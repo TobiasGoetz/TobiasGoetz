@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 127.7 kB Used in GitHub's Storage 
+> 📦 127.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -49,13 +49,13 @@ Sunday                   75 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 6 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 3 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TeX** 
@@ -71,5 +71,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2025 00:23:39 UTC
+ Last Updated on 07/08/2025 00:23:42 UTC
 <!--END_SECTION:waka-->
