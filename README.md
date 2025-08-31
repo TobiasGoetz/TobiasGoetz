@@ -16,14 +16,48 @@
 
 > 📦 127.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,525 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+🌆 Daytime                597 commits         ██████████░░░░░░░░░░░░░░░   39.43 % 
+🌃 Evening                405 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌙 Night                  318 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   237 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Tuesday                  161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Wednesday                178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Friday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Saturday                 310 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Sunday                   163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TeX** 
 
 ```text
@@ -37,5 +71,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 00:19:49 UTC
+ Last Updated on 31/08/2025 00:22:43 UTC
 <!--END_SECTION:waka-->
