@@ -16,7 +16,7 @@
 
 > 📦 136.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,060 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,13 +51,13 @@ Sunday                   186 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TOML                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TeX** 
@@ -73,5 +73,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 00:23:56 UTC
+ Last Updated on 01/01/2026 00:26:17 UTC
 <!--END_SECTION:waka-->
