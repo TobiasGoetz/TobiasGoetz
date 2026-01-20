@@ -16,7 +16,7 @@
 
 > 📦 136.6 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2026
+> 🏆 18 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,16 +51,13 @@ Sunday                   217 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     1 hr 51 mins        ██████████████████████░░░   86.11 % 
-Bash                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   2 hrs 9 mins        █████████████████████████   99.81 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TeX** 
@@ -76,5 +73,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2026 00:25:38 UTC
+ Last Updated on 20/01/2026 00:23:31 UTC
 <!--END_SECTION:waka-->
