@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 150.2 kB Used in GitHub's Storage 
+> 📦 150.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,149 Contributions in the Year 2026
+> 🏆 1,150 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,13 +51,17 @@ Sunday                   127 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 16 mins       ██████████████████████░░░   86.68 % 
+Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+reStructuredText         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 2 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TeX** 
@@ -73,5 +77,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2026 00:55:41 UTC
+ Last Updated on 12/06/2026 00:58:29 UTC
 <!--END_SECTION:waka-->
