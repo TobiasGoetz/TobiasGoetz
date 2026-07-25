@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 152.7 kB Used in GitHub's Storage 
+> 📦 152.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,540 Contributions in the Year 2026
+> 🏆 1,572 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -24,47 +24,6 @@
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-🌆 Daytime                437 commits         █████████░░░░░░░░░░░░░░░░   37.19 % 
-🌃 Evening                475 commits         ██████████░░░░░░░░░░░░░░░   40.43 % 
-🌙 Night                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Tuesday                  194 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                183 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Thursday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Friday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Saturday                 258 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Sunday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-YAML                     5 hrs 57 mins       ██████████████░░░░░░░░░░░   56.05 % 
-Markdown                 2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Text                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-TeX                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-
-🔥 Editors: 
-Cursor                   10 hrs 29 mins      █████████████████████████   98.61 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-
-💻 Operating System: 
-Windows                  10 hrs 38 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TeX** 
 
 ```text
@@ -78,5 +37,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:35:03 UTC
+ Last Updated on 25/07/2026 02:33:22 UTC
 <!--END_SECTION:waka-->
