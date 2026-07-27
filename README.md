@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 153.1 kB Used in GitHub's Storage 
+> 📦 152.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,632 Contributions in the Year 2026
+> 🏆 1,649 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -27,21 +27,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-🌆 Daytime                458 commits         █████████░░░░░░░░░░░░░░░░   37.88 % 
-🌃 Evening                481 commits         ██████████░░░░░░░░░░░░░░░   39.78 % 
-🌙 Night                  131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+🌞 Morning                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+🌆 Daytime                458 commits         █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌃 Evening                485 commits         ██████████░░░░░░░░░░░░░░░   39.92 % 
+🌙 Night                  133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Tuesday                  194 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Wednesday                183 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Thursday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Friday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Saturday                 285 commits         ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-Sunday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Monday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Tuesday                  194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Wednesday                183 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Thursday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Friday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Saturday                 285 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Sunday                   88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 ```
 
 
@@ -51,19 +51,19 @@ Sunday                   82 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     3 hrs 46 mins       █████████████░░░░░░░░░░░░   52.51 % 
-Markdown                 1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-TeX                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+YAML                     8 hrs 39 mins       ███████████████░░░░░░░░░░   58.10 % 
+Markdown                 2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+JSON                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+TeX                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 11 mins       █████████████████████░░░░   85.84 % 
-Obsidian                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Cursor                   13 hrs 52 mins      ███████████████████████░░   93.15 % 
+Obsidian                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-Windows                  7 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TeX** 
@@ -79,5 +79,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 02:41:22 UTC
+ Last Updated on 27/07/2026 02:49:31 UTC
 <!--END_SECTION:waka-->
