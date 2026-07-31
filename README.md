@@ -12,13 +12,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 153.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,685 Contributions in the Year 2026
+> 🏆 1,686 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,41 +53,41 @@ Sunday                   111 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     8 hrs 44 mins       ██████████████░░░░░░░░░░░   57.89 % 
-Markdown                 2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-JSON                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-TeX                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+YAML                     9 hrs 19 mins       █████████████░░░░░░░░░░░░   53.81 % 
+Markdown                 3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+JSON                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+TeX                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-Cursor                   13 hrs 58 mins      ███████████████████████░░   92.57 % 
-Obsidian                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Cursor                   15 hrs 21 mins      ██████████████████████░░░   88.57 % 
+Obsidian                 1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Windows                  15 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 53 mins (85.38%)
+⏱ AI Coding Time: 15 hrs 28 mins (89.27%)
 
-✍️ 5,320 lines written by AI, 609 lines written by hand (89.73% AI-written)
+✍️ 5,733 lines written by AI, 1,520 lines written by hand (79.04% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 604 AI Prompts
+🧠 93 AI Sessions, 653 AI Prompts
 
-Grok                     5 lines             █████████████████████████   100.00 % 
+Cursor                   115 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.73% of written lines came from AI
-📝 Concise Prompter — average 204 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 10.06% of changed lines were hand-edited
+🤖 AI-Driven — 79.04% of written lines came from AI
+📝 Concise Prompter — average 195 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 31.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TeX** 
@@ -103,5 +103,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 02:14:29 UTC
+ Last Updated on 31/07/2026 02:43:33 UTC
 <!--END_SECTION:waka-->
