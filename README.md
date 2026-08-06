@@ -16,34 +16,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 152.3 kB Used in GitHub's Storage 
+> 📦 152.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,705 Contributions in the Year 2026
+> 🏆 1,720 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-🌆 Daytime                221 commits         █████████░░░░░░░░░░░░░░░░   37.14 % 
-🌃 Evening                264 commits         ███████████░░░░░░░░░░░░░░   44.37 % 
-🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+🌞 Morning                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+🌆 Daytime                221 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌃 Evening                264 commits         ███████████░░░░░░░░░░░░░░   44.00 % 
+🌙 Night                  49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Tuesday                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-Wednesday                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Thursday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Friday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Saturday                 119 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Monday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+Wednesday                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Friday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Saturday                 119 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -53,55 +53,55 @@ Sunday                   40 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   34.39 % 
-YAML                     1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   31.60 % 
-Python                   1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Markdown                 1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   40.02 % 
+Python                   1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   34.15 % 
+YAML                     37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 49 mins       ██████████████████░░░░░░░   70.81 % 
-Obsidian                 1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+Cursor                   1 hr 57 mins        ████████████████░░░░░░░░░   62.84 % 
+Obsidian                 1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   37.16 % 
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       ████████████████████████░   96.14 % 
-Mac                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Windows                  2 hrs 58 mins       ████████████████████████░   95.08 % 
+Mac                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 38 mins (91.67%)
+⏱ AI Coding Time: 2 hrs 50 mins (91.09%)
 
-✍️ 732 lines written by AI, 914 lines written by hand (44.47% AI-written)
+✍️ 413 lines written by AI, 912 lines written by hand (31.17% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 96 AI Prompts
+🧠 20 AI Sessions, 59 AI Prompts
 
 Cursor                   115 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.47% of written lines came from AI
-📝 Concise Prompter — average 100 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 76.66% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 31.17% of written lines came from AI
+📝 Concise Prompter — average 87 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 85.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TeX** 
 
 ```text
-TeX                      12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TeX                      12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 05/08/2026 02:25:21 UTC
+ Last Updated on 06/08/2026 02:28:20 UTC
 <!--END_SECTION:waka-->
