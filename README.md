@@ -16,9 +16,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 152.4 kB Used in GitHub's Storage 
+> 📦 152.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,736 Contributions in the Year 2026
+> 🏆 1,738 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,28 +28,11 @@
  > 
 **I'm a Night 🦉** 
 
-```text
-🌞 Morning                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-🌆 Daytime                222 commits         █████████░░░░░░░░░░░░░░░░   36.63 % 
-🌃 Evening                268 commits         ███████████░░░░░░░░░░░░░░   44.22 % 
-🌙 Night                  49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Tuesday                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Wednesday                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Friday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Saturday                 121 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-```
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">101 commits</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="41" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">11.48%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">335 commits</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="137" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">38.07%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">359 commits</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="147" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">40.80%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">85 commits</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="35" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">9.66%</text></svg>
 
 
 📊 **This Week I Spent My Time On** 
 
-```text
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
@@ -60,7 +43,7 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-```
+
 
 🤖 **AI Coding This Week** 
 
@@ -70,16 +53,10 @@ No AI Coding Activity Tracked This Week
 
 **I Mostly Code in TeX** 
 
-```text
-TeX                      12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-```
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">TeX</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">12 repos</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="120" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">33.33%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">HTML</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">3 repos</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="30" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">8.33%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Jinja</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">1 repo</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="10" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">2.78%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Shell</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1 repo</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="10" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">2.78%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Swift</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1 repo</text><rect x="280" y="102" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="102" width="10" height="8" rx="0" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">2.78%</text></svg>
 
 
 
 
- Last Updated on 10/08/2026 01:42:25 UTC
+ Last Updated on 11/08/2026 01:39:33 UTC
 <!--END_SECTION:waka-->
