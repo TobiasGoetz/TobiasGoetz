@@ -18,7 +18,7 @@
 
 > 📦 152.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,739 Contributions in the Year 2026
+> 🏆 1,742 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,7 +28,7 @@
  > 
 **I'm a Night 🦉** 
 
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">101 commits</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="41" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">11.48%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">335 commits</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="137" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">38.07%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">359 commits</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="147" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">40.80%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">85 commits</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="35" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">9.66%</text></svg>
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">101 commits</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="41" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">11.46%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">336 commits</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="137" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">38.14%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">359 commits</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="147" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">40.75%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">85 commits</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="35" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">9.65%</text></svg>
 
 
 📊 **This Week I Spent My Time On** 
@@ -36,35 +36,35 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">YAML</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">4 hrs 58 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="190" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">52.66%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 28 mins</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="94" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">26.19%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">1 hr 3 mins</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="40" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">11.19%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">23 mins</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="15" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">4.19%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Text</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">22 mins</text><rect x="280" y="102" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="102" width="14" height="8" rx="0" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">3.88%</text></svg>
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">YAML</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">4 hrs 7 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="206" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">57.27%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">1 hr 23 mins</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="69" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">19.28%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">52 mins</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="43" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">12.06%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Text</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">21 mins</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="18" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">5.09%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">18 mins</text><rect x="280" y="102" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="102" width="16" height="8" rx="0" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">4.34%</text></svg>
 
 🔥 Editors: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Cursor</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">9 hrs 5 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="347" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">96.31%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Agent</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">20 mins</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="13" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">3.69%</text></svg>
+<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Cursor</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">6 hrs 51 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="343" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">95.30%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Agent</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">20 mins</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="17" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">4.70%</text></svg>
 
 💻 Operating System: 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Mac</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">9 hrs 26 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="360" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Mac</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">7 hrs 11 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="360" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 23 mins (99.35%)
+⏱ AI Coding Time: 7 hrs 8 mins (99.14%)
 
-✍️ 2,017 lines written by AI, 1 lines written by hand (99.95% AI-written)
+✍️ 1,301 lines written by AI, 1 lines written by hand (99.92% AI-written)
 
-🔤 406,351 Input Tokens, 406,351 Output Tokens
+🔤 370,637 Input Tokens, 370,637 Output Tokens
 
-💵 $7.31 Estimated AI Cost This Week
+💵 $6.67 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 280 AI Prompts
+🧠 79 AI Sessions, 238 AI Prompts
 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Grok</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">1,988 lines</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="360" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Composer</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">0 lines</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="0" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">0.00%</text></svg>
+<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Grok</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">1,771 lines</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="360" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Composer</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">0 lines</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="0" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">0.00%</text></svg>
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 5,923 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 6,336 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TeX** 
@@ -74,5 +74,5 @@
 
 
 
- Last Updated on 13/08/2026 01:52:45 UTC
+ Last Updated on 14/08/2026 01:49:53 UTC
 <!--END_SECTION:waka-->
