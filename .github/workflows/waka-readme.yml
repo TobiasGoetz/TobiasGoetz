@@ -4,6 +4,13 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  push:
+    paths:
+      - .github/workflows/waka-readme.yml
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
 
 jobs:
   update-readme:
