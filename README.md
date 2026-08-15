@@ -12,8 +12,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%202%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 152.8 kB Used in GitHub's Storage 
@@ -29,10 +27,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-🌆 Daytime                336 commits         ██████████░░░░░░░░░░░░░░░   38.05 % 
-🌃 Evening                361 commits         ██████████░░░░░░░░░░░░░░░   40.88 % 
-🌙 Night                  85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+🌞 Morning                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌆 Daytime                336 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
+🌃 Evening                364 commits         ██████████░░░░░░░░░░░░░░░   41.08 % 
+🌙 Night                  85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 ```
 
 
@@ -57,41 +55,6 @@ Mac                      3 hrs 44 mins       ███████████�
 Windows                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
-🤖 **AI Coding This Week** 
 
-```text
-⏱ AI Coding Time: 3 hrs 48 mins (97.89%)
-
-✍️ 210 lines written by AI, 2 lines written by hand (99.06% AI-written)
-
-🔤 320,762 Input Tokens, 320,762 Output Tokens
-
-💵 $5.77 Estimated AI Cost This Week
-
-🧠 58 AI Sessions, 145 AI Prompts
-
-Grok                     280 lines           █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.06% of written lines came from AI
-📚 Verbose Prompter — average 8,968 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.35% of changed lines were hand-edited
-```
-
-**I Mostly Code in TeX** 
-
-```text
-TeX                      13 repos            █████████░░░░░░░░░░░░░░░░   35.14 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-```
-
-
-
-
- Last Updated on 15/08/2026 17:30:41 UTC
+ Last Updated on 15/08/2026 17:34:39 UTC
 <!--END_SECTION:waka-->
