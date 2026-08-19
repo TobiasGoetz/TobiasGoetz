@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 153.3 kB Used in GitHub's Storage 
+> 📦 153.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,783 Contributions in the Year 2026
+> 🏆 1,797 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,22 +40,22 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     4 hrs 35 mins       █████████████░░░░░░░░░░░░   50.28 % 
-Python                   1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+YAML                     5 hrs 3 mins        █████████████░░░░░░░░░░░░   52.82 % 
+Python                   1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Markdown                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Text                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 2 mins        ██████████████████████░░░   88.11 % 
-Agent                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Cursor                   8 hrs 18 mins       ██████████████████████░░░   86.74 % 
+Agent                    1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  7 hrs 53 mins       ██████████████████████░░░   86.51 % 
-Mac                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Windows                  8 hrs 55 mins       ███████████████████████░░   93.10 % 
+Mac                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 ```
 
 
- Last Updated on 18/08/2026 01:08:32 UTC
+ Last Updated on 19/08/2026 01:09:51 UTC
 <!--END_SECTION:waka-->
