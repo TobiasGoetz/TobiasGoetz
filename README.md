@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 154.0 kB Used in GitHub's Storage 
+> 📦 154.2 kB Used in GitHub's Storage 
  > 
 > 🏆 1,897 Contributions in the Year 2026
  > 
@@ -40,22 +40,22 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 2 hrs 12 mins       ████████████████░░░░░░░░░   62.17 % 
-Python                   1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   35.25 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   1 hr 58 mins        █████████████████░░░░░░░░   66.87 % 
+Markdown                 52 mins             ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 47 mins        █████████████░░░░░░░░░░░░   50.61 % 
-Cursor                   59 mins             ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Agent                    45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Cursor                   1 hr 33 mins        █████████████░░░░░░░░░░░░   52.86 % 
+Agent                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Obsidian                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████░░░░░░░░   69.76 % 
-Mac                      1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   30.24 % 
+Mac                      2 hrs 1 min         █████████████████░░░░░░░░   68.86 % 
+Windows                  55 mins             ████████░░░░░░░░░░░░░░░░░   31.14 % 
 ```
 
 
- Last Updated on 01/09/2026 03:43:16 UTC
+ Last Updated on 02/09/2026 03:02:10 UTC
 <!--END_SECTION:waka-->
