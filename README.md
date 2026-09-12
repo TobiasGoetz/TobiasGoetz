@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 154.9 kB Used in GitHub's Storage 
+> 📦 155.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,075 Contributions in the Year 2026
+> 🏆 2,078 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,22 +40,22 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     3 hrs 48 mins       ████████████░░░░░░░░░░░░░   46.65 % 
-Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Text                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-TeX                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Python                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+YAML                     2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.75 % 
+TeX                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Python                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Image (png)              27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 57 mins       ██████████████████░░░░░░░   73.02 % 
-Agent                    1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Cursor                   4 hrs 19 mins       ██████████████████░░░░░░░   73.10 % 
+Agent                    1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/09/2026 03:09:58 UTC
+ Last Updated on 12/09/2026 03:15:48 UTC
 <!--END_SECTION:waka-->
