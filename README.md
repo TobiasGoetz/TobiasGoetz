@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 155.0 kB Used in GitHub's Storage 
+> 📦 155.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,078 Contributions in the Year 2026
+> 🏆 2,084 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,22 +40,23 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     1 hr 10 mins        █████████████░░░░░░░░░░░░   53.41 % 
-Markdown                 24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Text                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+YAML                     1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   41.85 % 
+Markdown                 51 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Text                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-Cursor                   1 hr 46 mins        ████████████████████░░░░░   80.36 % 
-Agent                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Obsidian                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Cursor                   1 hr 56 mins        █████████████████░░░░░░░░   69.05 % 
+Obsidian                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Agent                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 8 mins        ███████████████████░░░░░░   76.27 % 
+Mac                      40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 ```
 
 
- Last Updated on 14/09/2026 03:31:53 UTC
+ Last Updated on 15/09/2026 03:32:45 UTC
 <!--END_SECTION:waka-->
