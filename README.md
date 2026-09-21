@@ -16,13 +16,13 @@
 
 > 📦 154.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,101 Contributions in the Year 2026
+> 🏆 2,110 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 17 Private Repositories 
+> 🔑 18 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -40,21 +40,22 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 29 mins             ██████████░░░░░░░░░░░░░░░   41.03 % 
-TeX                      26 mins             █████████░░░░░░░░░░░░░░░░   36.78 % 
-Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-BibTeX                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+YAML                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Terraform                27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+TeX                      26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🔥 Editors: 
-Obsidian                 29 mins             ██████████░░░░░░░░░░░░░░░   40.20 % 
-Cursor                   23 mins             ████████░░░░░░░░░░░░░░░░░   32.25 % 
-Agent                    20 mins             ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+Agent                    1 hr 2 mins         ███████████░░░░░░░░░░░░░░   45.96 % 
+Cursor                   44 mins             ████████░░░░░░░░░░░░░░░░░   32.29 % 
+Obsidian                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 11 mins        █████████████░░░░░░░░░░░░   53.18 % 
+Windows                  1 hr 2 mins         ████████████░░░░░░░░░░░░░   46.82 % 
 ```
 
 
- Last Updated on 20/09/2026 03:33:46 UTC
+ Last Updated on 21/09/2026 03:29:07 UTC
 <!--END_SECTION:waka-->
