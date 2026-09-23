@@ -16,7 +16,7 @@
 
 > 📦 155.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,123 Contributions in the Year 2026
+> 🏆 2,144 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,22 +40,21 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-YAML                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Terraform                27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-TeX                      26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+YAML                     29 mins             ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Terraform                27 mins             ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+TeX                      26 mins             ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-Agent                    1 hr 2 mins         ███████████░░░░░░░░░░░░░░   45.96 % 
-Cursor                   44 mins             ████████░░░░░░░░░░░░░░░░░   32.29 % 
-Obsidian                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Agent                    1 hr 2 mins         ████████████████░░░░░░░░░   64.94 % 
+Cursor                   33 mins             █████████░░░░░░░░░░░░░░░░   35.06 % 
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████░░░░░░░░░░░░   53.18 % 
-Windows                  1 hr 2 mins         ████████████░░░░░░░░░░░░░   46.82 % 
+Windows                  1 hr 2 mins         █████████████████░░░░░░░░   66.72 % 
+Mac                      31 mins             ████████░░░░░░░░░░░░░░░░░   33.28 % 
 ```
 
 
- Last Updated on 22/09/2026 03:28:05 UTC
+ Last Updated on 23/09/2026 03:28:24 UTC
 <!--END_SECTION:waka-->
