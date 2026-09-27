@@ -16,13 +16,13 @@
 
 > 📦 155.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,177 Contributions in the Year 2026
+> 🏆 2,185 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -40,21 +40,20 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     29 mins             ████████░░░░░░░░░░░░░░░░░   30.95 % 
-Terraform                27 mins             ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-TeX                      26 mins             ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+YAML                     1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   40.38 % 
+Terraform                36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+HTML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+HCL                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-Agent                    1 hr 2 mins         ████████████████░░░░░░░░░   64.94 % 
-Cursor                   33 mins             █████████░░░░░░░░░░░░░░░░   35.06 % 
+Cursor                   2 hrs 26 mins       ███████████████████░░░░░░   75.48 % 
+Agent                    47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████░░░░░░░░   66.72 % 
-Mac                      31 mins             ████████░░░░░░░░░░░░░░░░░   33.28 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/09/2026 03:41:32 UTC
+ Last Updated on 27/09/2026 03:50:23 UTC
 <!--END_SECTION:waka-->
