@@ -40,21 +40,21 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-YAML                     4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-Python                   2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Markdown                 3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+YAML                     2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Python                   2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Text                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 35 mins      █████████████████░░░░░░░░   68.05 % 
-Agent                    4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-Obsidian                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Cursor                   8 hrs 54 mins       █████████████████░░░░░░░░   69.63 % 
+Agent                    2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Obsidian                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 
 💻 Operating System: 
-Windows                  17 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/10/2026 03:56:08 UTC
+ Last Updated on 04/10/2026 04:27:55 UTC
 <!--END_SECTION:waka-->
