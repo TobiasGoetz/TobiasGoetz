@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 157.0 kB Used in GitHub's Storage 
+> 📦 157.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,242 Contributions in the Year 2026
+> 🏆 2,291 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,21 +40,21 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-YAML                     1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Python                   1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-TeX                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+YAML                     1 hr 3 mins         ██████████████░░░░░░░░░░░   55.23 % 
+Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Text                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-Cursor                   6 hrs               ████████████████████░░░░░   78.20 % 
-Obsidian                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Agent                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Cursor                   1 hr 39 mins        █████████████████████░░░░   85.75 % 
+Agent                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/10/2026 05:01:49 UTC
+ Last Updated on 07/10/2026 04:28:57 UTC
 <!--END_SECTION:waka-->
