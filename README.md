@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 157.3 kB Used in GitHub's Storage 
+> 📦 163.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,296 Contributions in the Year 2026
+> 🏆 2,300 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -40,20 +40,22 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     1 hr 3 mins         ██████████████░░░░░░░░░░░   56.75 % 
-Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Text                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Markdown                 38 mins             █████████████░░░░░░░░░░░░   53.44 % 
+YAML                     25 mins             █████████░░░░░░░░░░░░░░░░   35.51 % 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-Cursor                   1 hr 37 mins        ██████████████████████░░░   86.52 % 
-Agent                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Cursor                   40 mins             ██████████████░░░░░░░░░░░   56.25 % 
+Agent                    31 mins             ███████████░░░░░░░░░░░░░░   43.30 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
+Windows                  40 mins             ██████████████░░░░░░░░░░░   55.77 % 
+Mac                      32 mins             ███████████░░░░░░░░░░░░░░   44.23 % 
 ```
 
 
- Last Updated on 08/10/2026 04:39:54 UTC
+ Last Updated on 09/10/2026 04:43:20 UTC
 <!--END_SECTION:waka-->
