@@ -16,7 +16,7 @@
 
 > 📦 161.9 kB Used in GitHub's Storage 
  > 
-> 🏆 2,319 Contributions in the Year 2026
+> 🏆 2,322 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,22 +40,22 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   40.19 % 
-TeX                      36 mins             ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-JSON                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-YAML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Markdown                 1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+Python                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+TeX                      36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 
 🔥 Editors: 
-Agent                    1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   40.10 % 
-Cursor                   1 hr 4 mins         ██████████░░░░░░░░░░░░░░░   39.51 % 
-Obsidian                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Cursor                   1 hr 51 mins        ████████████░░░░░░░░░░░░░   49.62 % 
+Agent                    1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   34.38 % 
+Obsidian                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 36 mins       ████████████████████████░   95.74 % 
-Windows                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Mac                      3 hrs 38 mins       ████████████████████████░   96.90 % 
+Windows                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 
 
- Last Updated on 13/10/2026 05:37:06 UTC
+ Last Updated on 14/10/2026 03:40:08 UTC
 <!--END_SECTION:waka-->
