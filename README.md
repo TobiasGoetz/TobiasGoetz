@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 161.9 kB Used in GitHub's Storage 
+> 📦 162.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,322 Contributions in the Year 2026
+> 🏆 2,326 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -24,38 +24,6 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-🌆 Daytime                585 commits         ██████████░░░░░░░░░░░░░░░   39.45 % 
-🌃 Evening                558 commits         █████████░░░░░░░░░░░░░░░░   37.63 % 
-🌙 Night                  159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Markdown                 1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
-Python                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-TeX                      36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-
-🔥 Editors: 
-Cursor                   1 hr 51 mins        ████████████░░░░░░░░░░░░░   49.62 % 
-Agent                    1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   34.38 % 
-Obsidian                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 38 mins       ████████████████████████░   96.90 % 
-Windows                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-```
-
-
- Last Updated on 15/10/2026 03:20:46 UTC
+ Last Updated on 16/10/2026 03:16:27 UTC
 <!--END_SECTION:waka-->
