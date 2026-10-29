@@ -16,7 +16,7 @@
 
 > 📦 162.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,422 Contributions in the Year 2026
+> 🏆 2,425 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,19 +40,20 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   3 hrs 32 mins       █████████████████████░░░░   84.63 % 
-HTML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Python                   27 mins             █████████░░░░░░░░░░░░░░░░   34.70 % 
+YAML                     24 mins             ████████░░░░░░░░░░░░░░░░░   30.93 % 
+JSON                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 11 mins       █████████████████████████   100.00 % 
+Cursor                   46 mins             ███████████████░░░░░░░░░░   58.19 % 
+Cursor Agent             33 mins             ██████████░░░░░░░░░░░░░░░   41.81 % 
 
 💻 Operating System: 
-Mac                      4 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/10/2026 04:08:59 UTC
+ Last Updated on 29/10/2026 04:31:24 UTC
 <!--END_SECTION:waka-->
