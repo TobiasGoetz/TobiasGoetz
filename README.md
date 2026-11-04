@@ -16,7 +16,7 @@
 
 > 📦 162.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,480 Contributions in the Year 2026
+> 🏆 2,500 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -24,6 +24,37 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 03/11/2026 05:28:58 UTC
+```text
+🌞 Morning                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+🌆 Daytime                374 commits         █████████░░░░░░░░░░░░░░░░   36.56 % 
+🌃 Evening                426 commits         ██████████░░░░░░░░░░░░░░░   41.64 % 
+🌙 Night                  107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Python                   27 mins             ████████░░░░░░░░░░░░░░░░░   31.54 % 
+YAML                     24 mins             ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+
+🔥 Editors: 
+Cursor                   46 mins             █████████████░░░░░░░░░░░░   52.88 % 
+Cursor Agent             33 mins             ██████████░░░░░░░░░░░░░░░   38.01 % 
+Obsidian                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+
+💻 Operating System: 
+Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/11/2026 04:57:21 UTC
 <!--END_SECTION:waka-->
