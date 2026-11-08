@@ -40,20 +40,20 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 2 hrs 8 mins        ███████████████████████░░   91.97 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Markdown                 2 hrs               ███████████████████████░░   91.48 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Cursor Agent             1 hr 24 mins        ███████████████░░░░░░░░░░   60.64 % 
-Cursor                   37 mins             ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-Obsidian                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Cursor Agent             1 hr 24 mins        ████████████████░░░░░░░░░   64.33 % 
+Cursor                   37 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Obsidian                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 
 💻 Operating System: 
-Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/11/2026 04:46:58 UTC
+ Last Updated on 08/11/2026 04:37:14 UTC
 <!--END_SECTION:waka-->
