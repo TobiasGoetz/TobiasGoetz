@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 162.7 kB Used in GitHub's Storage 
+> 📦 162.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,524 Contributions in the Year 2026
+> 🏆 2,527 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -27,10 +27,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-🌆 Daytime                374 commits         █████████░░░░░░░░░░░░░░░░   36.56 % 
-🌃 Evening                426 commits         ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌙 Night                  107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+🌞 Morning                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+🌆 Daytime                492 commits         █████████░░░░░░░░░░░░░░░░   37.53 % 
+🌃 Evening                519 commits         ██████████░░░░░░░░░░░░░░░   39.59 % 
+🌙 Night                  152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 ```
 
 
@@ -40,20 +40,21 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 2 hrs               ███████████████████████░░   91.48 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Markdown                 2 hrs 13 mins       ███████████████████░░░░░░   76.81 % 
+YAML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Cursor Agent             1 hr 24 mins        ████████████████░░░░░░░░░   64.33 % 
-Cursor                   37 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Obsidian                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Cursor Agent             1 hr 24 mins        ████████████░░░░░░░░░░░░░   48.77 % 
+Cursor                   1 hr 19 mins        ███████████░░░░░░░░░░░░░░   45.61 % 
+Obsidian                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 💻 Operating System: 
-Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/11/2026 04:37:14 UTC
+ Last Updated on 09/11/2026 04:47:58 UTC
 <!--END_SECTION:waka-->
