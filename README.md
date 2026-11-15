@@ -16,7 +16,7 @@
 
 > 📦 162.9 kB Used in GitHub's Storage 
  > 
-> 🏆 2,541 Contributions in the Year 2026
+> 🏆 2,547 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,20 +40,20 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 1 hr 12 mins        ██████████████████░░░░░░░   71.10 % 
-YAML                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Markdown                 2 hrs 31 mins       █████████████████████░░░░   83.78 % 
+YAML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Cursor                   50 mins             █████████████░░░░░░░░░░░░   50.28 % 
-Obsidian                 50 mins             ████████████░░░░░░░░░░░░░   49.72 % 
+Cursor                   2 hrs 10 mins       ██████████████████░░░░░░░   72.10 % 
+Obsidian                 50 mins             ███████░░░░░░░░░░░░░░░░░░   27.90 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/11/2026 05:02:55 UTC
+ Last Updated on 15/11/2026 04:56:47 UTC
 <!--END_SECTION:waka-->
