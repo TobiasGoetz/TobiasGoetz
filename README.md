@@ -16,7 +16,7 @@
 
 > 📦 162.9 kB Used in GitHub's Storage 
  > 
-> 🏆 2,548 Contributions in the Year 2026
+> 🏆 2,553 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,18 +40,19 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 2 hrs 18 mins       █████████████████████████   99.83 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown                 3 hrs 19 mins       ███████████████████████░░   91.42 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Image (png)              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Cursor                   1 hr 28 mins        ████████████████░░░░░░░░░   63.64 % 
-Obsidian                 50 mins             █████████░░░░░░░░░░░░░░░░   36.36 % 
+Cursor                   2 hrs 47 mins       ███████████████████░░░░░░   76.86 % 
+Obsidian                 50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/11/2026 06:00:44 UTC
+ Last Updated on 19/11/2026 06:00:49 UTC
 <!--END_SECTION:waka-->
