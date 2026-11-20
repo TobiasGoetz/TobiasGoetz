@@ -40,19 +40,21 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 3 hrs 19 mins       ███████████████████████░░   91.42 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Image (png)              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Markdown                 3 hrs 55 mins       ████████████████████░░░░░   81.92 % 
+Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Image (png)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 47 mins       ███████████████████░░░░░░   76.86 % 
-Obsidian                 50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Cursor                   3 hrs 57 mins       █████████████████████░░░░   82.47 % 
+Obsidian                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       ███████████████████░░░░░░   75.77 % 
+Mac                      1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
 ```
 
 
- Last Updated on 19/11/2026 06:00:49 UTC
+ Last Updated on 20/11/2026 05:50:43 UTC
 <!--END_SECTION:waka-->
