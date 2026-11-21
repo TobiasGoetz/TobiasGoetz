@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 162.9 kB Used in GitHub's Storage 
+> 📦 163.0 kB Used in GitHub's Storage 
  > 
 > 🏆 2,553 Contributions in the Year 2026
  > 
@@ -40,21 +40,20 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 3 hrs 55 mins       ████████████████████░░░░░   81.92 % 
-Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Image (png)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Markdown                 2 hrs 56 mins       ███████████████████░░░░░░   76.42 % 
+Python                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Image (png)              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 57 mins       █████████████████████░░░░   82.47 % 
-Obsidian                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Cursor                   3 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       ███████████████████░░░░░░   75.77 % 
-Mac                      1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Windows                  2 hrs 38 mins       █████████████████░░░░░░░░   68.64 % 
+Mac                      1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   31.36 % 
 ```
 
 
- Last Updated on 20/11/2026 05:50:43 UTC
+ Last Updated on 21/11/2026 05:45:27 UTC
 <!--END_SECTION:waka-->
