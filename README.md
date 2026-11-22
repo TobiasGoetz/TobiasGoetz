@@ -16,7 +16,7 @@
 
 > 📦 163.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,553 Contributions in the Year 2026
+> 🏆 2,559 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -27,10 +27,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-🌆 Daytime                608 commits         ██████████░░░░░░░░░░░░░░░   38.07 % 
-🌃 Evening                612 commits         ██████████░░░░░░░░░░░░░░░   38.32 % 
-🌙 Night                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+🌞 Morning                178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+🌆 Daytime                607 commits         ██████████░░░░░░░░░░░░░░░   38.30 % 
+🌃 Evening                605 commits         ██████████░░░░░░░░░░░░░░░   38.17 % 
+🌙 Night                  195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 ```
 
 
@@ -40,20 +40,21 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 2 hrs 56 mins       ███████████████████░░░░░░   76.42 % 
-Python                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Image (png)              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Markdown                 1 hr 40 mins        ███████████░░░░░░░░░░░░░░   45.98 % 
+Python                   1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   34.36 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 50 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 35 mins       █████████████████████████   98.47 % 
+Cursor Agent             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████░░░░░░░░   68.64 % 
-Mac                      1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   31.36 % 
+Mac                      2 hrs 19 mins       ████████████████░░░░░░░░░   63.83 % 
+Windows                  1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   36.17 % 
 ```
 
 
- Last Updated on 21/11/2026 05:45:27 UTC
+ Last Updated on 22/11/2026 05:14:49 UTC
 <!--END_SECTION:waka-->
